@@ -13,7 +13,7 @@ Aplikace obsahuje:
 ## Instalace Pythonu
 
 ```powershell
-winget install -e --id Python.Python.3.12
+winget install -e --id Python.Python.3.14
 ```
 
 ## Instalace knihoven
